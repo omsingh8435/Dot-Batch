@@ -1,0 +1,14 @@
+.box{
+    background-color: aqua;
+    transform: translate(100px,100px);
+    transform: rotate(45deg);
+    margin:200px;
+    transform: scale(1,4.5);
+    transform: scaleX(2);
+    transform: scaleY(5);
+    transform: skew(45deg);
+    transform: skewX(45deg);
+    transform: skewY(45deg);
+    /* matrix property hw hai */
+   
+}
